@@ -1,0 +1,160 @@
+{
+  "name": "Renato Welinton Schlogel",
+  "firstNames": "Renato Welinton",
+  "surname": "Schlogel",
+  "email": "renato.s@outlook.com",
+  "url": "https://renatoschlogel.github.io",
+  "linkedin": "https://www.linkedin.com/in/renato-welinton-schlogel/",
+  "github": "https://github.com/renatoschlogel",
+  "updated": "2026-10-15",
+  "locales": {
+    "en": {
+      "lang": "en",
+      "path": "",
+      "title": "Senior Software Engineer",
+      "specialty": "Java · Spring Boot · Technical leadership",
+      "description": "Senior software engineer with 14+ years in financial ERP and healthcare systems. Java, Spring Boot, backend architecture, integrations, and technical leadership.",
+      "summary": "Software engineer with 14+ years building business-critical systems in financial ERP and healthcare. Combines Java/Spring Boot development with business analysis, solution design, and technical leadership. Currently a Software Engineering Specialist at DBC Company, assigned to Unimed Porto Alegre, connecting business teams, engineers, and vendors from understanding the problem through production delivery.",
+      "nav": {"experience": "Experience", "expertise": "Expertise", "education": "Education"},
+      "ui": {
+        "skip": "Skip to content", "navigation": "Main navigation", "language": "Language",
+        "contact": "Get in touch", "print": "Print / save PDF", "quick": "Professional profile",
+        "locationLabel": "Location", "location": "Brazil · UTC−3", "focusLabel": "Focus",
+        "focus": "Backend engineering & technical leadership", "domainsLabel": "Business domains",
+        "domains": "Financial systems & healthcare", "selected": "Selected responsibilities & results",
+        "skills": "Technical expertise", "certification": "Certification", "updated": "Updated October 2026",
+        "footer": "Software engineering with a business perspective.", "profile": "Career highlights"
+      },
+      "metrics": [
+        {"value": "14+", "label": "years in software development"},
+        {"value": "30,000+", "label": "appointments migrated"},
+        {"value": "~640", "label": "physicians in that migration"}
+      ],
+      "experience": [
+        {
+          "company": "DBC Company / Unimed Porto Alegre",
+          "context": "Consulting assignment at a healthcare cooperative · Remote",
+          "period": "Sep 2021 — Present",
+          "roles": [
+            {"title": "Software Engineering Specialist", "period": "Jun 2026 — Present"},
+            {"title": "Senior Software Engineer", "period": "Sep 2021 — May 2026"}
+          ],
+          "bullets": [
+            "Lead technical decisions for electronic health record integrations, evaluating business processes, system dependencies, and impacts on care and billing. Specify integrations and align business teams, developers, architecture, and vendors.",
+            "Designed an internal Java/Spring Boot scheduling API to separate digital channels from vendor APIs, centralize business rules, and reduce coupling across web, mobile, telemedicine, chatbot, and telephone channels.",
+            "Built a Java/Spring Boot migration service with Oracle, MongoDB, REST APIs, status tracking, and reprocessing. Adapted it for approximately 40 migration phases, covering around 640 physicians and more than 30,000 appointments.",
+            "Upgraded the scheduling service from JDK 11 to JDK 21 with virtual threads, assessing memory and CPU usage for two production instances.",
+            "Specified telemedicine APIs for a .NET BFF and web/mobile applications. Coordinated eligibility and billing integration across a vendor, architecture, infrastructure, and three internal platforms.",
+            "Implemented internal fixes for two patient check-in integration defects affecting eligibility and billing in one day; both solutions were subsequently validated and deployed to production.",
+            "Delivered a repeatable internal tool for legacy clinical record extraction and transformation in approximately 85 development hours, using Go."
+          ]
+        },
+        {
+          "company": "Datacoper Software",
+          "context": "ERP software for agribusiness cooperatives · Cascavel, Brazil",
+          "period": "Feb 2012 — Aug 2021",
+          "roles": [
+            {"title": "Software Engineer — Java", "period": "Dec 2017 — Aug 2021"}
+          ],
+          "bullets": [
+            "Developed financial ERP workflows in Java EE, Oracle, and AngularJS, applying legacy business knowledge to account settlement, commissions, bank collections, and credit limits. Implemented settlement and debt renegotiation with partial payments, charges, and reversals.",
+            "Worked on SOAP integrations with the Progress ERP and software delivery, including Jenkins/Hudson builds, database migrations, release troubleshooting, and production updates."
+          ],
+          "earlierRole": {"title": "Software Engineer — Progress 4GL", "period": "Feb 2012 — Dec 2017"},
+          "earlierBullets": [
+            "Progressed from trainee to responsibility for the financial module, covering business analysis, solution specifications, estimates, development, and coordination with customers, support, and testing teams.",
+            "Developed bank collection and payment integrations using FEBRABAN/CNAB 240 and 400 standards. Designed and implemented the company's first ERP bank payment integration, initially delivered with Sicredi.",
+            "Built a parameter configuration tool that reduced setup time from approximately one hour to five minutes; contributed to a version synchronization tool used by around 15 cooperative clients."
+          ]
+        }
+      ],
+      "skills": [
+        {"title": "Backend", "text": "Java, Spring Boot, REST APIs, microservices, JPA/Hibernate, Maven, Gradle."},
+        {"title": "Architecture & integrations", "text": "Clean Architecture, hexagonal architecture, API design, BFFs, REST/SOAP, legacy modernization."},
+        {"title": "Data", "text": "Oracle, PostgreSQL, MongoDB, SQL, data modeling and migration."},
+        {"title": "Messaging & asynchronous flows", "text": "Solution evaluation and technical specifications; Kafka design evaluation for beneficiary data updates."},
+        {"title": "Quality & delivery", "text": "TDD, JUnit 5, Mockito, unit and integration testing, code reviews, Git, Azure DevOps, Jenkins/Hudson, CI/CD."},
+        {"title": "AI-assisted development", "text": "Generative AI and coding agents for analysis, implementation, refactoring, testing, and documentation, with technical review."},
+        {"title": "Complementary experience", "text": "Java EE, AngularJS, Progress 4GL; .NET integrations and maintenance; Go for internal tools and data migration."}
+      ],
+      "education": [
+        {"degree": "Bachelor's Degree in Information Systems", "school": "Universidade Paranaense (UNIPAR)", "period": "2010 — 2013"},
+        {"degree": "Postgraduate Specialization in Oracle Database Management", "school": "Centro Universitário FAG", "period": "2014 — 2015"}
+      ]
+    },
+    "pt-br": {
+      "lang": "pt-BR",
+      "path": "pt-br/",
+      "title": "Engenheiro de Software Sênior",
+      "specialty": "Java · Spring Boot · Liderança técnica",
+      "description": "Engenheiro de software sênior com mais de 14 anos em ERP financeiro e sistemas de saúde. Java, Spring Boot, arquitetura backend, integrações e liderança técnica.",
+      "summary": "Engenheiro de software com mais de 14 anos em sistemas críticos de ERP financeiro e saúde. Combina desenvolvimento Java/Spring Boot com análise de negócio, desenho de soluções e liderança técnica. Atualmente Desenvolvedor Especialista na DBC Company, alocado na Unimed Porto Alegre, conectando negócio, desenvolvedores e fornecedores desde o entendimento do problema até a entrega em produção.",
+      "nav": {"experience": "Experiência", "expertise": "Competências", "education": "Formação"},
+      "ui": {
+        "skip": "Pular para o conteúdo", "navigation": "Navegação principal", "language": "Idioma",
+        "contact": "Entrar em contato", "print": "Imprimir / salvar PDF", "quick": "Perfil profissional",
+        "locationLabel": "Localização", "location": "Brasil · UTC−3", "focusLabel": "Atuação",
+        "focus": "Engenharia backend e liderança técnica", "domainsLabel": "Domínios de negócio",
+        "domains": "Sistemas financeiros e saúde", "selected": "Responsabilidades e resultados selecionados",
+        "skills": "Competências técnicas", "certification": "Certificação", "updated": "Atualizado em outubro de 2026",
+        "footer": "Engenharia de software com visão de negócio.", "profile": "Destaques da trajetória"
+      },
+      "metrics": [
+        {"value": "14+", "label": "anos em desenvolvimento de software"},
+        {"value": "30 mil+", "label": "marcações migradas"},
+        {"value": "~640", "label": "médicos nessa migração"}
+      ],
+      "experience": [
+        {
+          "company": "DBC Company / Unimed Porto Alegre",
+          "context": "Alocação em cooperativa de saúde · Remoto",
+          "period": "Set/2021 — Atual",
+          "roles": [
+            {"title": "Desenvolvedor Especialista", "period": "Jun/2026 — Atual"},
+            {"title": "Desenvolvedor Sênior", "period": "Set/2021 — Mai/2026"}
+          ],
+          "bullets": [
+            "Lidero decisões técnicas nas integrações com o prontuário eletrônico, avaliando processos de negócio, dependências entre sistemas e impactos no atendimento e faturamento. Especifico integrações e alinho negócio, desenvolvedores, arquitetura e fornecedores.",
+            "Concebi uma API interna de agendamentos em Java/Spring Boot para separar canais digitais das APIs do fornecedor, centralizar regras de negócio e reduzir acoplamento entre web, mobile, telemedicina, chatbot e telefonia.",
+            "Desenvolvi microsserviço Java/Spring Boot de migração com Oracle, MongoDB, APIs REST, controle de status e reprocessamento. Adaptei a solução para aproximadamente 40 etapas, abrangendo cerca de 640 médicos e mais de 30 mil marcações.",
+            "Atualizei o serviço de agendamentos de JDK 11 para JDK 21 com virtual threads, avaliando uso de memória e CPU para duas instâncias de produção.",
+            "Especifiquei APIs de telemedicina para BFF .NET e aplicações web/mobile. Coordenei a integração de elegibilidade e faturamento entre fornecedor, arquitetura, infraestrutura e três plataformas internas.",
+            "Implementei em um dia correções internas para dois problemas de integração no anúncio de chegada de pacientes pelo totem, envolvendo elegibilidade e faturamento; ambas foram posteriormente homologadas e implantadas em produção.",
+            "Entreguei ferramenta interna reexecutável para extração e transformação de prontuários legados em aproximadamente 85 horas de desenvolvimento, utilizando Go."
+          ]
+        },
+        {
+          "company": "Datacoper Software",
+          "context": "ERP para cooperativas do agronegócio · Cascavel, Brasil",
+          "period": "Fev/2012 — Ago/2021",
+          "roles": [
+            {"title": "Desenvolvedor de Software — Java", "period": "Dez/2017 — Ago/2021"}
+          ],
+          "bullets": [
+            "Desenvolvi processos financeiros em Java EE, Oracle e AngularJS, aplicando conhecimento do legado a acerto de contas, comissões, cobrança bancária e limite de crédito. Implementei acerto e renegociação com baixas parciais, encargos e estornos.",
+            "Atuei em integrações SOAP com o ERP Progress e na entrega de software, incluindo builds em Jenkins/Hudson, migrations de banco, resolução de problemas em versões e atualizações de produção."
+          ],
+          "earlierRole": {"title": "Desenvolvedor de Software — Progress 4GL", "period": "Fev/2012 — Dez/2017"},
+          "earlierBullets": [
+            "Evoluí de trainee para responsável pelo módulo financeiro, atuando em análise de negócio, especificações de soluções, estimativas, desenvolvimento e alinhamento com clientes, suporte e testes.",
+            "Desenvolvi integrações de cobrança e pagamentos nos padrões FEBRABAN/CNAB 240 e 400. Projetei e implementei o primeiro processo de pagamento bancário via ERP da empresa, implantado inicialmente com o Sicredi.",
+            "Criei configurador de parâmetros que reduziu o tempo de configuração de aproximadamente uma hora para cinco minutos; participei de ferramenta de equalização de versões usada por cerca de 15 cooperativas."
+          ]
+        }
+      ],
+      "skills": [
+        {"title": "Backend", "text": "Java, Spring Boot, APIs REST, microsserviços, JPA/Hibernate, Maven, Gradle."},
+        {"title": "Arquitetura e integrações", "text": "Clean Architecture, arquitetura hexagonal, desenho de APIs, BFFs, REST/SOAP e modernização de legados."},
+        {"title": "Dados", "text": "Oracle, PostgreSQL, MongoDB, SQL, modelagem e migração de dados."},
+        {"title": "Mensageria e fluxos assíncronos", "text": "Avaliação de soluções e especificações técnicas; avaliação do desenho Kafka para atualização cadastral de beneficiários."},
+        {"title": "Qualidade e entrega", "text": "TDD, JUnit 5, Mockito, testes unitários e de integração, revisão de código, Git, Azure DevOps, Jenkins/Hudson e CI/CD."},
+        {"title": "Desenvolvimento assistido por IA", "text": "IA generativa e agentes de codificação para análise, implementação, refatoração, testes e documentação, com revisão técnica."},
+        {"title": "Experiência complementar", "text": "Java EE, AngularJS, Progress 4GL; .NET em integrações e manutenções; Go para ferramentas internas e migração de dados."}
+      ],
+      "education": [
+        {"degree": "Bacharelado em Sistemas de Informação", "school": "Universidade Paranaense (UNIPAR)", "period": "2010 — 2013"},
+        {"degree": "Pós-graduação em Gestão de Banco de Dados Oracle", "school": "Centro Universitário FAG", "period": "2014 — 2015"}
+      ]
+    }
+  }
+}
